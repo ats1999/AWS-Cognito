@@ -1,2 +1,2 @@
 # AWS-Cognito
-Using AWS-Cognito puerly on server side
+Implemention of AWS-Cognito With nodejs
